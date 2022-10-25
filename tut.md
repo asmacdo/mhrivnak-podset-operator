@@ -39,10 +39,10 @@ We should now see the api, config, and controllers directories.
 ## Hello World!
 
 As we implement the controller, we will iteratively add imports. For
-brevity and convenience, add the final imports now and uncomment as they
+brevity and convenience, add the final imports to the controller now and uncomment as they
 are used.
 
-```go
+```go controllers/thing.go
 import (
 	"context"
 	// "reflect"
